@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! Amazing fellow human being 👋
 
-<!--
-**thushv89/thushv89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist and I love getting my hands 🤚 and feet 🦶 wet 👀 in problem infested ☠ murky waters 🚤 of data, to unearth invaluable gems 💎 of information and actionable insights. 
 
-Here are some ideas to get you started:
+#### What do I love?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 🤖 Machine Learning, Deep Learning, Artificial Intelligence
+- 🧮 TensorFlow
+
+#### Some of my publications
+
+* 🎬 [Machine Translation in Python - DataCamp](https://www.datacamp.com/courses/machine-translation-in-python)
+* 📙 [Natural Language Processing with TensorFlow v1.6](https://www.amazon.com.au/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR)
+* 📑 [Medium Articles](https://medium.com/@thushv89)
