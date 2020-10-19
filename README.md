@@ -10,7 +10,7 @@ I am a data scientist and I love getting my hands 🤚 and feet 🦶 wet 👀 in
 
 #### Some of my publications
 
-* 📙 [TensorFlow 2 in Action](https://www.manning.com/books/tensorflow-in-action)
-* 🎬 [Machine Translation in Python - DataCamp](https://www.datacamp.com/courses/machine-translation-in-python)
-* 📙 [Natural Language Processing with TensorFlow v1.6](https://www.amazon.com.au/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR)
+* 📙 [TensorFlow 2 in Action (Manning)](https://www.manning.com/books/tensorflow-in-action)
+* 🎬 [Machine Translation in Python (DataCamp)](https://www.datacamp.com/courses/machine-translation-in-python)
+* 📙 [Natural Language Processing with TensorFlow v1.6 (Packt)](https://www.amazon.com.au/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR)
 * 📑 [Medium Articles](https://medium.com/@thushv89)
