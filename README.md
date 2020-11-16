@@ -14,3 +14,4 @@ I am a data scientist and I love getting my hands 🤚 and feet 🦶 wet 👀 in
 * 🎬 [Machine Translation in Python (DataCamp)](https://www.datacamp.com/courses/machine-translation-in-python)
 * 📙 [Natural Language Processing with TensorFlow v1.6 (Packt)](https://www.amazon.com.au/Natural-Language-Processing-TensorFlow-language-ebook/dp/B077Q3VZFR)
 * 📑 [Medium Articles](https://medium.com/@thushv89)
+* 🎬 [DeepLearningHero Youtube Channel](https://www.youtube.com/channel/UC1HkxV8PtmWRyQ39MfzmtGA)
